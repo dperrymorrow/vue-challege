@@ -1,13 +1,14 @@
 # Vue Challege
-A little take home Vue/Javascript take home challenge
+A little take home Vue/Javascript take home challenge. Shouldnt take too long, just a little something as a topic of conversation for the on site interview.
 
-## The Challenge
+## Tasks
 
-- [ ] load the 3 JSON files and merge them into one Array
-- [ ] save them in the Vuex store
-- [ ] sort the table on click of the header ASC and DESC with an indicator
-- [ ] filter countries by field / value and clear filter
-- [ ] click a country `<tr>` go to countryEdit route and add a note field to the country
+- [ ] can view all three JSON files merged in the `<table>`
+- [ ] can sort the table by fields
+- [ ] can filter table by field / value and clear filter
+- [ ] can click a `<tr>` navigate to `countryEdit` route
+- [ ] can edit the country in a form
+- [ ] can return to `countryIndex` route and see the changes persisted in the table
 
 > Im just using httpVueLoader here as to not have to setup a whole build step.
 
@@ -16,4 +17,6 @@ cd vue-challenge
 npm install
 npm run dev
 ```
-open localhost:8080
+open http://localhost:8080
+
+Once you have completed the challenge, pull request your branch to this repo. Have fun!

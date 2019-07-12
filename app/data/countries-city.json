@@ -1,562 +1,562 @@
 [
   {
-    "country": "Afghanistan",
+    "name": "Afghanistan",
     "city": "Kabul"
   },
   {
-    "country": "Albania",
+    "name": "Albania",
     "city": "Tirana"
   },
   {
-    "country": "Algeria",
+    "name": "Algeria",
     "city": "Alger"
   },
   {
-    "country": "American Samoa",
+    "name": "American Samoa",
     "city": "Fagatogo"
   },
   {
-    "country": "Andorra",
+    "name": "Andorra",
     "city": "Andorra la Vella"
   },
   {
-    "country": "Angola",
+    "name": "Angola",
     "city": "Luanda"
   },
   {
-    "country": "Anguilla",
+    "name": "Anguilla",
     "city": "The Valley"
   },
   {
-    "country": "Antarctica",
+    "name": "Antarctica",
     "city": null
   },
   {
-    "country": "Antigua and Barbuda",
+    "name": "Antigua and Barbuda",
     "city": "Saint John's"
   },
   {
-    "country": "Argentina",
+    "name": "Argentina",
     "city": "Buenos Aires"
   },
   {
-    "country": "Armenia",
+    "name": "Armenia",
     "city": "Yerevan"
   },
   {
-    "country": "Aruba",
+    "name": "Aruba",
     "city": "Oranjestad"
   },
   {
-    "country": "Australia",
+    "name": "Australia",
     "city": "Canberra"
   },
   {
-    "country": "Austria",
+    "name": "Austria",
     "city": "Wien"
   },
   {
-    "country": "Azerbaijan",
+    "name": "Azerbaijan",
     "city": "Baku"
   },
   {
-    "country": "Bahamas",
+    "name": "Bahamas",
     "city": "Nassau"
   },
   {
-    "country": "Bahrain",
+    "name": "Bahrain",
     "city": "al-Manama"
   },
   {
-    "country": "Bangladesh",
+    "name": "Bangladesh",
     "city": "Dhaka"
   },
   {
-    "country": "Barbados",
+    "name": "Barbados",
     "city": "Bridgetown"
   },
   {
-    "country": "Belarus",
+    "name": "Belarus",
     "city": "Minsk"
   },
   {
-    "country": "Belgium",
+    "name": "Belgium",
     "city": "Bruxelles [Brussel]"
   },
   {
-    "country": "Belize",
+    "name": "Belize",
     "city": "Belmopan"
   },
   {
-    "country": "Benin",
+    "name": "Benin",
     "city": "Porto-Novo"
   },
   {
-    "country": "Bermuda",
+    "name": "Bermuda",
     "city": "Hamilton"
   },
   {
-    "country": "Bhutan",
+    "name": "Bhutan",
     "city": "Thimphu"
   },
   {
-    "country": "Bolivia",
+    "name": "Bolivia",
     "city": "La Paz"
   },
   {
-    "country": "Bosnia and Herzegovina",
+    "name": "Bosnia and Herzegovina",
     "city": "Sarajevo"
   },
   {
-    "country": "Botswana",
+    "name": "Botswana",
     "city": "Gaborone"
   },
   {
-    "country": "Bouvet Island",
+    "name": "Bouvet Island",
     "city": null
   },
   {
-    "country": "Brazil",
+    "name": "Brazil",
     "city": "Brasília"
   },
   {
-    "country": "British Indian Ocean Territory",
+    "name": "British Indian Ocean Territory",
     "city": null
   },
   {
-    "country": "Brunei",
+    "name": "Brunei",
     "city": "Bandar Seri Begawan"
   },
   {
-    "country": "Bulgaria",
+    "name": "Bulgaria",
     "city": "Sofia"
   },
   {
-    "country": "Burkina Faso",
+    "name": "Burkina Faso",
     "city": "Ouagadougou"
   },
   {
-    "country": "Burundi",
+    "name": "Burundi",
     "city": "Bujumbura"
   },
   {
-    "country": "Cambodia",
+    "name": "Cambodia",
     "city": "Phnom Penh"
   },
   {
-    "country": "Cameroon",
+    "name": "Cameroon",
     "city": "Yaound"
   },
   {
-    "country": "Canada",
+    "name": "Canada",
     "city": "Ottawa"
   },
   {
-    "country": "Cape Verde",
+    "name": "Cape Verde",
     "city": "Praia"
   },
   {
-    "country": "Cayman Islands",
+    "name": "Cayman Islands",
     "city": "George Town"
   },
   {
-    "country": "Central African Republic",
+    "name": "Central African Republic",
     "city": "Bangui"
   },
   {
-    "country": "Chad",
+    "name": "Chad",
     "city": "N'Djam"
   },
   {
-    "country": "Chile",
+    "name": "Chile",
     "city": "Santiago de Chile"
   },
   {
-    "country": "China",
+    "name": "China",
     "city": "Peking"
   },
   {
-    "country": "Christmas Island",
+    "name": "Christmas Island",
     "city": "Flying Fish Cove"
   },
   {
-    "country": "Cocos (Keeling) Islands",
+    "name": "Cocos (Keeling) Islands",
     "city": "West Island"
   },
   {
-    "country": "Colombia",
+    "name": "Colombia",
     "city": "Santaf"
   },
   {
-    "country": "Comoros",
+    "name": "Comoros",
     "city": "Moroni"
   },
   {
-    "country": "Congo",
+    "name": "Congo",
     "city": "Brazzaville"
   },
   {
-    "country": "Cook Islands",
+    "name": "Cook Islands",
     "city": "Avarua"
   },
   {
-    "country": "Costa Rica",
+    "name": "Costa Rica",
     "city": "San Jos"
   },
   {
-    "country": "Croatia",
+    "name": "Croatia",
     "city": "Zagreb"
   },
   {
-    "country": "Cuba",
+    "name": "Cuba",
     "city": "La Habana"
   },
   {
-    "country": "Cyprus",
+    "name": "Cyprus",
     "city": "Nicosia"
   },
   {
-    "country": "Czech Republic",
+    "name": "Czech Republic",
     "city": "Praha"
   },
   {
-    "country": "Denmark",
+    "name": "Denmark",
     "city": "Copenhagen"
   },
   {
-    "country": "Djibouti",
+    "name": "Djibouti",
     "city": "Djibouti"
   },
   {
-    "country": "Dominica",
+    "name": "Dominica",
     "city": "Roseau"
   },
   {
-    "country": "Dominican Republic",
+    "name": "Dominican Republic",
     "city": "Santo Domingo de Guzm"
   },
   {
-    "country": "East Timor",
+    "name": "East Timor",
     "city": "Dili"
   },
   {
-    "country": "Ecuador",
+    "name": "Ecuador",
     "city": "Quito"
   },
   {
-    "country": "Egypt",
+    "name": "Egypt",
     "city": "Cairo"
   },
   {
-    "country": "El Salvador",
+    "name": "El Salvador",
     "city": "San Salvador"
   },
   {
-    "country": "England",
+    "name": "England",
     "city": "London"
   },
   {
-    "country": "Equatorial Guinea",
+    "name": "Equatorial Guinea",
     "city": "Malabo"
   },
   {
-    "country": "Eritrea",
+    "name": "Eritrea",
     "city": "Asmara"
   },
   {
-    "country": "Estonia",
+    "name": "Estonia",
     "city": "Tallinn"
   },
   {
-    "country": "Ethiopia",
+    "name": "Ethiopia",
     "city": "Addis Abeba"
   },
   {
-    "country": "Falkland Islands",
+    "name": "Falkland Islands",
     "city": "Stanley"
   },
   {
-    "country": "Faroe Islands",
+    "name": "Faroe Islands",
     "city": "Tórshavn"
   },
   {
-    "country": "Fiji Islands",
+    "name": "Fiji Islands",
     "city": "Suva"
   },
   {
-    "country": "Finland",
+    "name": "Finland",
     "city": "Helsinki [Helsingfors]"
   },
   {
-    "country": "France",
+    "name": "France",
     "city": "Paris"
   },
   {
-    "country": "French Guiana",
+    "name": "French Guiana",
     "city": "Cayenne"
   },
   {
-    "country": "French Polynesia",
+    "name": "French Polynesia",
     "city": "Papeete"
   },
   {
-    "country": "French Southern territories",
+    "name": "French Southern territories",
     "city": null
   },
   {
-    "country": "Gabon",
+    "name": "Gabon",
     "city": "Libreville"
   },
   {
-    "country": "Gambia",
+    "name": "Gambia",
     "city": "Banjul"
   },
   {
-    "country": "Georgia",
+    "name": "Georgia",
     "city": "Tbilisi"
   },
   {
-    "country": "Germany",
+    "name": "Germany",
     "city": "Berlin"
   },
   {
-    "country": "Ghana",
+    "name": "Ghana",
     "city": "Accra"
   },
   {
-    "country": "Gibraltar",
+    "name": "Gibraltar",
     "city": "Gibraltar"
   },
   {
-    "country": "Greece",
+    "name": "Greece",
     "city": "Athenai"
   },
   {
-    "country": "Greenland",
+    "name": "Greenland",
     "city": "Nuuk"
   },
   {
-    "country": "Grenada",
+    "name": "Grenada",
     "city": "Saint George's"
   },
   {
-    "country": "Guadeloupe",
+    "name": "Guadeloupe",
     "city": "Basse-Terre"
   },
   {
-    "country": "Guam",
+    "name": "Guam",
     "city": "Aga"
   },
   {
-    "country": "Guatemala",
+    "name": "Guatemala",
     "city": "Ciudad de Guatemala"
   },
   {
-    "country": "Guinea",
+    "name": "Guinea",
     "city": "Conakry"
   },
   {
-    "country": "Guinea-Bissau",
+    "name": "Guinea-Bissau",
     "city": "Bissau"
   },
   {
-    "country": "Guyana",
+    "name": "Guyana",
     "city": "Georgetown"
   },
   {
-    "country": "Haiti",
+    "name": "Haiti",
     "city": "Port-au-Prince"
   },
   {
-    "country": "Heard Island and McDonald Islands",
+    "name": "Heard Island and McDonald Islands",
     "city": null
   },
   {
-    "country": "Holy See (Vatican City State)",
+    "name": "Holy See (Vatican City State)",
     "city": "Citt"
   },
   {
-    "country": "Honduras",
+    "name": "Honduras",
     "city": "Tegucigalpa"
   },
   {
-    "country": "Hong Kong",
+    "name": "Hong Kong",
     "city": "Victoria"
   },
   {
-    "country": "Hungary",
+    "name": "Hungary",
     "city": "Budapest"
   },
   {
-    "country": "Iceland",
+    "name": "Iceland",
     "city": "Reykjav"
   },
   {
-    "country": "India",
+    "name": "India",
     "city": "New Delhi"
   },
   {
-    "country": "Indonesia",
+    "name": "Indonesia",
     "city": "Jakarta"
   },
   {
-    "country": "Iran",
+    "name": "Iran",
     "city": "Tehran"
   },
   {
-    "country": "Iraq",
+    "name": "Iraq",
     "city": "Baghdad"
   },
   {
-    "country": "Ireland",
+    "name": "Ireland",
     "city": "Dublin"
   },
   {
-    "country": "Israel",
+    "name": "Israel",
     "city": "Jerusalem"
   },
   {
-    "country": "Italy",
+    "name": "Italy",
     "city": "Roma"
   },
   {
-    "country": "Ivory Coast",
+    "name": "Ivory Coast",
     "city": "Yamoussoukro"
   },
   {
-    "country": "Jamaica",
+    "name": "Jamaica",
     "city": "Kingston"
   },
   {
-    "country": "Japan",
+    "name": "Japan",
     "city": "Tokyo"
   },
   {
-    "country": "Jordan",
+    "name": "Jordan",
     "city": "Amman"
   },
   {
-    "country": "Kazakhstan",
+    "name": "Kazakhstan",
     "city": "Astana"
   },
   {
-    "country": "Kenya",
+    "name": "Kenya",
     "city": "Nairobi"
   },
   {
-    "country": "Kiribati",
+    "name": "Kiribati",
     "city": "Bairiki"
   },
   {
-    "country": "Kuwait",
+    "name": "Kuwait",
     "city": "Kuwait"
   },
   {
-    "country": "Kyrgyzstan",
+    "name": "Kyrgyzstan",
     "city": "Bishkek"
   },
   {
-    "country": "Laos",
+    "name": "Laos",
     "city": "Vientiane"
   },
   {
-    "country": "Latvia",
+    "name": "Latvia",
     "city": "Riga"
   },
   {
-    "country": "Lebanon",
+    "name": "Lebanon",
     "city": "Beirut"
   },
   {
-    "country": "Lesotho",
+    "name": "Lesotho",
     "city": "Maseru"
   },
   {
-    "country": "Liberia",
+    "name": "Liberia",
     "city": "Monrovia"
   },
   {
-    "country": "Libyan Arab Jamahiriya",
+    "name": "Libyan Arab Jamahiriya",
     "city": "Tripoli"
   },
   {
-    "country": "Liechtenstein",
+    "name": "Liechtenstein",
     "city": "Vaduz"
   },
   {
-    "country": "Lithuania",
+    "name": "Lithuania",
     "city": "Vilnius"
   },
   {
-    "country": "Luxembourg",
+    "name": "Luxembourg",
     "city": "Luxembourg [Luxemburg/L"
   },
   {
-    "country": "Macao",
+    "name": "Macao",
     "city": "Macao"
   },
   {
-    "country": "North Macedonia",
+    "name": "North Macedonia",
     "city": "Skopje"
   },
   {
-    "country": "Madagascar",
+    "name": "Madagascar",
     "city": "Antananarivo"
   },
   {
-    "country": "Malawi",
+    "name": "Malawi",
     "city": "Lilongwe"
   },
   {
-    "country": "Malaysia",
+    "name": "Malaysia",
     "city": "Kuala Lumpur"
   },
   {
-    "country": "Maldives",
+    "name": "Maldives",
     "city": "Male"
   },
   {
-    "country": "Mali",
+    "name": "Mali",
     "city": "Bamako"
   },
   {
-    "country": "Malta",
+    "name": "Malta",
     "city": "Valletta"
   },
   {
-    "country": "Marshall Islands",
+    "name": "Marshall Islands",
     "city": "Dalap-Uliga-Darrit"
   },
   {
-    "country": "Martinique",
+    "name": "Martinique",
     "city": "Fort-de-France"
   },
   {
-    "country": "Mauritania",
+    "name": "Mauritania",
     "city": "Nouakchott"
   },
   {
-    "country": "Mauritius",
+    "name": "Mauritius",
     "city": "Port-Louis"
   },
   {
-    "country": "Mayotte",
+    "name": "Mayotte",
     "city": "Mamoutzou"
   },
   {
-    "country": "Mexico",
+    "name": "Mexico",
     "city": "Ciudad de M"
   },
   {
-    "country": "Micronesia, Federated States of",
+    "name": "Micronesia, Federated States of",
     "city": "Palikir"
   },
   {
-    "country": "Moldova",
+    "name": "Moldova",
     "city": "Chisinau"
   },
   {
-    "country": "Monaco",
+    "name": "Monaco",
     "city": "Monaco-Ville"
   }
 ]

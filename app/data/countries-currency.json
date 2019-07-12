@@ -1,562 +1,562 @@
 [
   {
-    "country": "Afghanistan",
+    "name": "Afghanistan",
     "currency_name": "Afghanistan Afghani"
   },
   {
-    "country": "Albania",
+    "name": "Albania",
     "currency_name": "Albanian Lek"
   },
   {
-    "country": "Algeria",
+    "name": "Algeria",
     "currency_name": "Algerian Dinar"
   },
   {
-    "country": "American Samoa",
+    "name": "American Samoa",
     "currency_name": "US Dollar"
   },
   {
-    "country": "Andorra",
+    "name": "Andorra",
     "currency_name": "Euro"
   },
   {
-    "country": "Angola",
+    "name": "Angola",
     "currency_name": "Angolan Kwanza"
   },
   {
-    "country": "Anguilla",
+    "name": "Anguilla",
     "currency_name": "East Caribbean Dollar"
   },
   {
-    "country": "Antarctica",
+    "name": "Antarctica",
     "currency_name": "East Caribbean Dollar"
   },
   {
-    "country": "Antigua and Barbuda",
+    "name": "Antigua and Barbuda",
     "currency_name": "East Caribbean Dollar"
   },
   {
-    "country": "Argentina",
+    "name": "Argentina",
     "currency_name": "Argentine Peso"
   },
   {
-    "country": "Armenia",
+    "name": "Armenia",
     "currency_name": "Armenian Dram"
   },
   {
-    "country": "Aruba",
+    "name": "Aruba",
     "currency_name": "Aruban Guilder"
   },
   {
-    "country": "Australia",
+    "name": "Australia",
     "currency_name": "Australian Dollar"
   },
   {
-    "country": "Austria",
+    "name": "Austria",
     "currency_name": "Euro"
   },
   {
-    "country": "Azerbaijan",
+    "name": "Azerbaijan",
     "currency_name": "Azerbaijan New Manat"
   },
   {
-    "country": "Bahamas",
+    "name": "Bahamas",
     "currency_name": "Bahamian Dollar"
   },
   {
-    "country": "Bahrain",
+    "name": "Bahrain",
     "currency_name": "Bahraini Dinar"
   },
   {
-    "country": "Bangladesh",
+    "name": "Bangladesh",
     "currency_name": "Bangladeshi Taka"
   },
   {
-    "country": "Barbados",
+    "name": "Barbados",
     "currency_name": "Barbados Dollar"
   },
   {
-    "country": "Belarus",
+    "name": "Belarus",
     "currency_name": "Belarussian Ruble"
   },
   {
-    "country": "Belgium",
+    "name": "Belgium",
     "currency_name": "Euro"
   },
   {
-    "country": "Belize",
+    "name": "Belize",
     "currency_name": "Belize Dollar"
   },
   {
-    "country": "Benin",
+    "name": "Benin",
     "currency_name": "CFA Franc BCEAO"
   },
   {
-    "country": "Bermuda",
+    "name": "Bermuda",
     "currency_name": "Bermudian Dollar"
   },
   {
-    "country": "Bhutan",
+    "name": "Bhutan",
     "currency_name": "Bhutan Ngultrum"
   },
   {
-    "country": "Bolivia",
+    "name": "Bolivia",
     "currency_name": "Boliviano"
   },
   {
-    "country": "Bosnia and Herzegovina",
+    "name": "Bosnia and Herzegovina",
     "currency_name": null
   },
   {
-    "country": "Botswana",
+    "name": "Botswana",
     "currency_name": "Botswana Pula"
   },
   {
-    "country": "Bouvet Island",
+    "name": "Bouvet Island",
     "currency_name": "Norwegian Krone"
   },
   {
-    "country": "Brazil",
+    "name": "Brazil",
     "currency_name": "Brazilian Real"
   },
   {
-    "country": "British Indian Ocean Territory",
+    "name": "British Indian Ocean Territory",
     "currency_name": "US Dollar"
   },
   {
-    "country": "Brunei",
+    "name": "Brunei",
     "currency_name": null
   },
   {
-    "country": "Bulgaria",
+    "name": "Bulgaria",
     "currency_name": "Bulgarian Lev"
   },
   {
-    "country": "Burkina Faso",
+    "name": "Burkina Faso",
     "currency_name": "CFA Franc BCEAO"
   },
   {
-    "country": "Burundi",
+    "name": "Burundi",
     "currency_name": "Burundi Franc"
   },
   {
-    "country": "Cambodia",
+    "name": "Cambodia",
     "currency_name": "Kampuchean Riel"
   },
   {
-    "country": "Cameroon",
+    "name": "Cameroon",
     "currency_name": "CFA Franc BEAC"
   },
   {
-    "country": "Canada",
+    "name": "Canada",
     "currency_name": "Canadian Dollar"
   },
   {
-    "country": "Cape Verde",
+    "name": "Cape Verde",
     "currency_name": "Cape Verde Escudo"
   },
   {
-    "country": "Cayman Islands",
+    "name": "Cayman Islands",
     "currency_name": "Cayman Islands Dollar"
   },
   {
-    "country": "Central African Republic",
+    "name": "Central African Republic",
     "currency_name": "CFA Franc BEAC"
   },
   {
-    "country": "Chad",
+    "name": "Chad",
     "currency_name": null
   },
   {
-    "country": "Chile",
+    "name": "Chile",
     "currency_name": "Chilean Peso"
   },
   {
-    "country": "China",
+    "name": "China",
     "currency_name": "Yuan Renminbi"
   },
   {
-    "country": "Christmas Island",
+    "name": "Christmas Island",
     "currency_name": "Australian Dollar"
   },
   {
-    "country": "Cocos (Keeling) Islands",
+    "name": "Cocos (Keeling) Islands",
     "currency_name": " Australian Dollar"
   },
   {
-    "country": "Colombia",
+    "name": "Colombia",
     "currency_name": "Colombian Peso"
   },
   {
-    "country": "Comoros",
+    "name": "Comoros",
     "currency_name": "Comoros Franc"
   },
   {
-    "country": "Congo",
+    "name": "Congo",
     "currency_name": "CFA Franc BEAC"
   },
   {
-    "country": "Cook Islands",
+    "name": "Cook Islands",
     "currency_name": "New Zealand Dollar"
   },
   {
-    "country": "Costa Rica",
+    "name": "Costa Rica",
     "currency_name": "Costa Rican Colon"
   },
   {
-    "country": "Croatia",
+    "name": "Croatia",
     "currency_name": "Croatian Kuna"
   },
   {
-    "country": "Cuba",
+    "name": "Cuba",
     "currency_name": "Cuban Peso"
   },
   {
-    "country": "Cyprus",
+    "name": "Cyprus",
     "currency_name": "Euro"
   },
   {
-    "country": "Czech Republic",
+    "name": "Czech Republic",
     "currency_name": null
   },
   {
-    "country": "Denmark",
+    "name": "Denmark",
     "currency_name": "Danish Krone"
   },
   {
-    "country": "Djibouti",
+    "name": "Djibouti",
     "currency_name": "Djibouti Franc"
   },
   {
-    "country": "Dominica",
+    "name": "Dominica",
     "currency_name": "East Caribbean Dollar"
   },
   {
-    "country": "Dominican Republic",
+    "name": "Dominican Republic",
     "currency_name": "Dominican Peso"
   },
   {
-    "country": "East Timor",
+    "name": "East Timor",
     "currency_name": null
   },
   {
-    "country": "Ecuador",
+    "name": "Ecuador",
     "currency_name": "Ecuador Sucre"
   },
   {
-    "country": "Egypt",
+    "name": "Egypt",
     "currency_name": "Egyptian Pound"
   },
   {
-    "country": "El Salvador",
+    "name": "El Salvador",
     "currency_name": "El Salvador Colon"
   },
   {
-    "country": "England",
+    "name": "England",
     "currency_name": null
   },
   {
-    "country": "Equatorial Guinea",
+    "name": "Equatorial Guinea",
     "currency_name": "CFA Franc BEAC"
   },
   {
-    "country": "Eritrea",
+    "name": "Eritrea",
     "currency_name": "Eritrean Nakfa"
   },
   {
-    "country": "Estonia",
+    "name": "Estonia",
     "currency_name": "Euro"
   },
   {
-    "country": "Ethiopia",
+    "name": "Ethiopia",
     "currency_name": "Ethiopian Birr"
   },
   {
-    "country": "Falkland Islands",
+    "name": "Falkland Islands",
     "currency_name": null
   },
   {
-    "country": "Faroe Islands",
+    "name": "Faroe Islands",
     "currency_name": " Danish Krone"
   },
   {
-    "country": "Fiji Islands",
+    "name": "Fiji Islands",
     "currency_name": null
   },
   {
-    "country": "Finland",
+    "name": "Finland",
     "currency_name": "Euro"
   },
   {
-    "country": "France",
+    "name": "France",
     "currency_name": "Euro"
   },
   {
-    "country": "French Guiana",
+    "name": "French Guiana",
     "currency_name": "Euro"
   },
   {
-    "country": "French Polynesia",
+    "name": "French Polynesia",
     "currency_name": null
   },
   {
-    "country": "French Southern territories",
+    "name": "French Southern territories",
     "currency_name": "Euro"
   },
   {
-    "country": "Gabon",
+    "name": "Gabon",
     "currency_name": "CFA Franc BEAC"
   },
   {
-    "country": "Gambia",
+    "name": "Gambia",
     "currency_name": "Gambian Dalasi"
   },
   {
-    "country": "Georgia",
+    "name": "Georgia",
     "currency_name": "Georgian Lari"
   },
   {
-    "country": "Germany",
+    "name": "Germany",
     "currency_name": "Euro"
   },
   {
-    "country": "Ghana",
+    "name": "Ghana",
     "currency_name": "Ghanaian Cedi"
   },
   {
-    "country": "Gibraltar",
+    "name": "Gibraltar",
     "currency_name": "Gibraltar Pound"
   },
   {
-    "country": "Greece",
+    "name": "Greece",
     "currency_name": "Euro"
   },
   {
-    "country": "Greenland",
+    "name": "Greenland",
     "currency_name": "Danish Krone"
   },
   {
-    "country": "Grenada",
+    "name": "Grenada",
     "currency_name": "East Carribean Dollar"
   },
   {
-    "country": "Guadeloupe",
+    "name": "Guadeloupe",
     "currency_name": null
   },
   {
-    "country": "Guam",
+    "name": "Guam",
     "currency_name": null
   },
   {
-    "country": "Guatemala",
+    "name": "Guatemala",
     "currency_name": "Guatemalan Quetzal"
   },
   {
-    "country": "Guinea",
+    "name": "Guinea",
     "currency_name": "Guinea Franc"
   },
   {
-    "country": "Guinea-Bissau",
+    "name": "Guinea-Bissau",
     "currency_name": null
   },
   {
-    "country": "Guyana",
+    "name": "Guyana",
     "currency_name": "Guyana Dollar"
   },
   {
-    "country": "Haiti",
+    "name": "Haiti",
     "currency_name": "Haitian Gourde"
   },
   {
-    "country": "Heard Island and McDonald Islands",
+    "name": "Heard Island and McDonald Islands",
     "currency_name": "Australian Dollar"
   },
   {
-    "country": "Holy See (Vatican City State)",
+    "name": "Holy See (Vatican City State)",
     "currency_name": null
   },
   {
-    "country": "Honduras",
+    "name": "Honduras",
     "currency_name": "Honduran Lempira"
   },
   {
-    "country": "Hong Kong",
+    "name": "Hong Kong",
     "currency_name": "Hong Kong Dollar"
   },
   {
-    "country": "Hungary",
+    "name": "Hungary",
     "currency_name": "Hungarian Forint"
   },
   {
-    "country": "Iceland",
+    "name": "Iceland",
     "currency_name": "Iceland Krona"
   },
   {
-    "country": "India",
+    "name": "India",
     "currency_name": "Indian Rupee"
   },
   {
-    "country": "Indonesia",
+    "name": "Indonesia",
     "currency_name": "Indonesian Rupiah"
   },
   {
-    "country": "Iran",
+    "name": "Iran",
     "currency_name": "Iranian Rial"
   },
   {
-    "country": "Iraq",
+    "name": "Iraq",
     "currency_name": "Iraqi Dinar"
   },
   {
-    "country": "Ireland",
+    "name": "Ireland",
     "currency_name": "Euro"
   },
   {
-    "country": "Israel",
+    "name": "Israel",
     "currency_name": "Israeli New Shekel"
   },
   {
-    "country": "Italy",
+    "name": "Italy",
     "currency_name": "Euro"
   },
   {
-    "country": "Ivory Coast",
+    "name": "Ivory Coast",
     "currency_name": "CFA Franc BCEAO"
   },
   {
-    "country": "Jamaica",
+    "name": "Jamaica",
     "currency_name": "Jamaican Dollar"
   },
   {
-    "country": "Japan",
+    "name": "Japan",
     "currency_name": "Japanese Yen"
   },
   {
-    "country": "Jordan",
+    "name": "Jordan",
     "currency_name": "Jordanian Dinar"
   },
   {
-    "country": "Kazakhstan",
+    "name": "Kazakhstan",
     "currency_name": null
   },
   {
-    "country": "Kenya",
+    "name": "Kenya",
     "currency_name": "Kenyan Shilling"
   },
   {
-    "country": "Kiribati",
+    "name": "Kiribati",
     "currency_name": "Australian Dollar"
   },
   {
-    "country": "Kuwait",
+    "name": "Kuwait",
     "currency_name": "Kuwaiti Dinar"
   },
   {
-    "country": "Kyrgyzstan",
+    "name": "Kyrgyzstan",
     "currency_name": "Som"
   },
   {
-    "country": "Laos",
+    "name": "Laos",
     "currency_name": "Lao Kip"
   },
   {
-    "country": "Latvia",
+    "name": "Latvia",
     "currency_name": "Latvian Lats"
   },
   {
-    "country": "Lebanon",
+    "name": "Lebanon",
     "currency_name": "Lebanese Pound"
   },
   {
-    "country": "Lesotho",
+    "name": "Lesotho",
     "currency_name": "Lesotho Loti"
   },
   {
-    "country": "Liberia",
+    "name": "Liberia",
     "currency_name": "Liberian Dollar"
   },
   {
-    "country": "Libyan Arab Jamahiriya",
+    "name": "Libyan Arab Jamahiriya",
     "currency_name": null
   },
   {
-    "country": "Liechtenstein",
+    "name": "Liechtenstein",
     "currency_name": "Swiss Franc"
   },
   {
-    "country": "Lithuania",
+    "name": "Lithuania",
     "currency_name": "Lithuanian Litas"
   },
   {
-    "country": "Luxembourg",
+    "name": "Luxembourg",
     "currency_name": "Euro"
   },
   {
-    "country": "Macao",
+    "name": "Macao",
     "currency_name": null
   },
   {
-    "country": "North Macedonia",
+    "name": "North Macedonia",
     "currency_name": "Denar"
   },
   {
-    "country": "Madagascar",
+    "name": "Madagascar",
     "currency_name": "Malagasy Franc"
   },
   {
-    "country": "Malawi",
+    "name": "Malawi",
     "currency_name": "Malawi Kwacha"
   },
   {
-    "country": "Malaysia",
+    "name": "Malaysia",
     "currency_name": "Malaysian Ringgit"
   },
   {
-    "country": "Maldives",
+    "name": "Maldives",
     "currency_name": "Maldive Rufiyaa"
   },
   {
-    "country": "Mali",
+    "name": "Mali",
     "currency_name": "CFA Franc BCEAO"
   },
   {
-    "country": "Malta",
+    "name": "Malta",
     "currency_name": "Euro"
   },
   {
-    "country": "Marshall Islands",
+    "name": "Marshall Islands",
     "currency_name": "US Dollar"
   },
   {
-    "country": "Martinique",
+    "name": "Martinique",
     "currency_name": null
   },
   {
-    "country": "Mauritania",
+    "name": "Mauritania",
     "currency_name": "Mauritanian Ouguiya"
   },
   {
-    "country": "Mauritius",
+    "name": "Mauritius",
     "currency_name": "Mauritius Rupee"
   },
   {
-    "country": "Mayotte",
+    "name": "Mayotte",
     "currency_name": "Euro"
   },
   {
-    "country": "Mexico",
+    "name": "Mexico",
     "currency_name": "Mexican Nuevo Peso"
   },
   {
-    "country": "Micronesia, Federated States of",
+    "name": "Micronesia, Federated States of",
     "currency_name": null
   },
   {
-    "country": "Moldova",
+    "name": "Moldova",
     "currency_name": "Moldovan Leu"
   },
   {
-    "country": "Monaco",
+    "name": "Monaco",
     "currency_name": null
   }
 ]
