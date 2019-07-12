@@ -1,4 +1,4 @@
-# vue-challege
+# Vue Challege
 A little take home Vue/Javascript take home challenge
 
 ## The Challenge
