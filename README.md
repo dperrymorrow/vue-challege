@@ -10,6 +10,8 @@ A little take home Vue/Javascript take home challenge. Shouldnt take too long, j
 - [ ] can edit the country in a form
 - [ ] can return to `countryIndex` route and see the changes persisted in the table
 
+**Bonus:** leverage Vuex as much as you can
+
 > Im just using httpVueLoader here as to not have to setup a whole build step.
 
 ```

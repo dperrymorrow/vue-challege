@@ -105,7 +105,7 @@
   },
   {
     "name": "Bosnia and Herzegovina",
-    "currency_name": null
+    "currency_name": ""
   },
   {
     "name": "Botswana",
@@ -125,7 +125,7 @@
   },
   {
     "name": "Brunei",
-    "currency_name": null
+    "currency_name": ""
   },
   {
     "name": "Bulgaria",
@@ -165,7 +165,7 @@
   },
   {
     "name": "Chad",
-    "currency_name": null
+    "currency_name": ""
   },
   {
     "name": "Chile",
@@ -217,7 +217,7 @@
   },
   {
     "name": "Czech Republic",
-    "currency_name": null
+    "currency_name": ""
   },
   {
     "name": "Denmark",
@@ -237,7 +237,7 @@
   },
   {
     "name": "East Timor",
-    "currency_name": null
+    "currency_name": ""
   },
   {
     "name": "Ecuador",
@@ -253,7 +253,7 @@
   },
   {
     "name": "England",
-    "currency_name": null
+    "currency_name": ""
   },
   {
     "name": "Equatorial Guinea",
@@ -273,7 +273,7 @@
   },
   {
     "name": "Falkland Islands",
-    "currency_name": null
+    "currency_name": ""
   },
   {
     "name": "Faroe Islands",
@@ -281,7 +281,7 @@
   },
   {
     "name": "Fiji Islands",
-    "currency_name": null
+    "currency_name": ""
   },
   {
     "name": "Finland",
@@ -297,7 +297,7 @@
   },
   {
     "name": "French Polynesia",
-    "currency_name": null
+    "currency_name": ""
   },
   {
     "name": "French Southern territories",
@@ -341,11 +341,11 @@
   },
   {
     "name": "Guadeloupe",
-    "currency_name": null
+    "currency_name": ""
   },
   {
     "name": "Guam",
-    "currency_name": null
+    "currency_name": ""
   },
   {
     "name": "Guatemala",
@@ -357,7 +357,7 @@
   },
   {
     "name": "Guinea-Bissau",
-    "currency_name": null
+    "currency_name": ""
   },
   {
     "name": "Guyana",
@@ -373,7 +373,7 @@
   },
   {
     "name": "Holy See (Vatican City State)",
-    "currency_name": null
+    "currency_name": ""
   },
   {
     "name": "Honduras",
@@ -437,7 +437,7 @@
   },
   {
     "name": "Kazakhstan",
-    "currency_name": null
+    "currency_name": ""
   },
   {
     "name": "Kenya",
@@ -477,7 +477,7 @@
   },
   {
     "name": "Libyan Arab Jamahiriya",
-    "currency_name": null
+    "currency_name": ""
   },
   {
     "name": "Liechtenstein",
@@ -493,7 +493,7 @@
   },
   {
     "name": "Macao",
-    "currency_name": null
+    "currency_name": ""
   },
   {
     "name": "North Macedonia",
@@ -529,7 +529,7 @@
   },
   {
     "name": "Martinique",
-    "currency_name": null
+    "currency_name": ""
   },
   {
     "name": "Mauritania",
@@ -549,7 +549,7 @@
   },
   {
     "name": "Micronesia, Federated States of",
-    "currency_name": null
+    "currency_name": ""
   },
   {
     "name": "Moldova",
@@ -557,6 +557,6 @@
   },
   {
     "name": "Monaco",
-    "currency_name": null
+    "currency_name": ""
   }
 ]
