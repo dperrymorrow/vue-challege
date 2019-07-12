@@ -4,9 +4,7 @@
       <!-- filter by field and matching value -->
       <label>Field:</label>
       <select class="form-control">
-        <option :value="null">
-          -- Select a Field --
-        </option>
+        <option :value="null">Select</option>
       </select>
     </div>
 
@@ -14,7 +12,7 @@
       <label>Value:</label>
       <input type="search" class="form-control" />
     </div>
-    <button type="submit" class="btn btn-default">Filter</button>
+    <button type="submit" class="btn btn-primary">Filter</button>
   </form>
 </template>
 

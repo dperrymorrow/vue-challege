@@ -6,7 +6,10 @@
 
     <table class="table table-striped">
       <thead>
-        <!-- need to be able to sort by clicking on the headers for the country row -->
+        <th>Country</th>
+        <th>Capital City</th>
+        <th>Abbreviation</th>
+        <th>Currency</th>
       </thead>
 
       <tbody>

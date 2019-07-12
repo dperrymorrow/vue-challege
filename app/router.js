@@ -7,8 +7,8 @@ export default new VueRouter({
     },
 
     {
-      name: "countryShow",
-      component: httpVueLoader("/components/country-show.vue"),
+      name: "countryEdit",
+      component: httpVueLoader("/components/country-edit.vue"),
       path: "/country/:name",
       props: true
     }

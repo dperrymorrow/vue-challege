@@ -10,9 +10,6 @@
 
 <script>
 module.exports = {
-  props: {
-    countryName: { type: String, required: true }
-  },
   name: "country-edit"
 };
 </script>
