@@ -9,7 +9,7 @@ export default new Vuex.Store({
       },
 
       actions: {
-        async load(context) {
+        async load() {
           // here we will fetch all three JSON files and merge them on country them...
           // can just use native fetch()
         }
