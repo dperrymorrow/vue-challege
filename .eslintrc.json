@@ -14,7 +14,8 @@
     "module": "writable",
     "Vuex": "writable",
     "Vue": "readonly",
-    "httpVueLoader": "readonly"
+    "httpVueLoader": "readonly",
+    "VueRouter": "readonly"
   },
   "parserOptions": {
     "ecmaVersion": 2018,
