@@ -4,7 +4,7 @@
     <pre>
       {{ country }}
     </pre>
-    <!-- edit the country's note field here -->
+    <!-- edit the country's fields here -->
   </div>
 </template>
 

@@ -21,27 +21,6 @@
 
 <script>
 module.exports = {
-  name: "filters",
-
-  computed: {
-    filterField: {
-      set(val) {
-        this.$store.commit("countries/setFilterField", val);
-      },
-
-      get() {
-        return this.$store.state.countries.filterField;
-      }
-    },
-    filterValue: {
-      set(val) {
-        this.$store.commit("countries/setFilterValue", val);
-      },
-
-      get() {
-        return this.$store.state.countries.filterValue;
-      }
-    }
-  }
+  name: "filters"
 };
 </script>
