@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="//unpkg.com/vue"></script>
+    <script src="//unpkg.com/vuex"></script>
+    <script src="//unpkg.com/http-vue-loader"></script>
+  </head>
+
+  <body>
+    <div id="app-container">
+      <!-- the vue app is rendered here... -->
+    </div>
+
+    <script type="module">
+      import store from "./store/index.js";
+
+      httpVueLoader.register(Vue, "/components/countries.vue");
+      httpVueLoader.register(Vue, "/components/filters.vue");
+
+      new Vue({
+        el: "#app-container",
+        store,
+        template: "<countries/>",
+      });
+    </script>
+  </body>
+</html>
