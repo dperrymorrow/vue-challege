@@ -24,9 +24,6 @@
 <script>
 module.exports = {
   components: { filters: httpVueLoader("/components/filters.vue") },
-  name: "countries",
-  mounted() {
-    this.$store.dispatch("countries/load");
-  }
+  name: "countries"
 };
 </script>
