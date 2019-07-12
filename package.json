@@ -5,7 +5,7 @@
   "author": "David Morrow <dperrymorrow@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "dev": "http-server ./app"
+    "dev": "http-server -c1 ./app"
   },
   "devDependencies": {
     "eslint": "^6.0.1",
