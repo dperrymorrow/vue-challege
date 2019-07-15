@@ -5,7 +5,6 @@ export default new VueRouter({
       path: "/",
       component: httpVueLoader("/components/country-index.vue")
     },
-
     {
       name: "countryEdit",
       component: httpVueLoader("/components/country-edit.vue"),
